@@ -27,3 +27,6 @@
 - 📫 How to reach me: ewise82@gmail.com
 
 
+![ewise82's github stats](https://github-readme-stats.vercel.app/api?username=ewise82&show_icons=true&theme=vue)
+
+
