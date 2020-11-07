@@ -1,4 +1,4 @@
-### Hey! I'm Eric
+# Hey! I'm Eric
 
  <!-- LinkedIn Contact -->
   <a href="https://www.linkedin.com/in/ericcwise/" target="_blank">
