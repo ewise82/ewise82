@@ -21,7 +21,9 @@
 
 ### 🌱 Currently Learning
 
-- Best practices for designing data-intensive applications.
+- Next.js
+- TypeScript
+- Go
 
 ### Contact:
 - 📫 How to reach me: ewise82@gmail.com
