@@ -16,7 +16,7 @@
 
 ### 🔭 Currently Working On
 
-- <b>Employment:</b> Full Stack Software Engineering positions in the Seattle area.
+- <b>Employment:</b> Full Stack Software Engineering positions in the greater Seattle area.
 
 
 ### 🌱 Currently Learning
