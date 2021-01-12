@@ -23,7 +23,6 @@
 
 - Next.js
 - TypeScript
-- Go
 - Jamstack
 
 ### Contact:
