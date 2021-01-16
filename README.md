@@ -23,8 +23,7 @@
 
 - Next.js
 - TypeScript
-- Jamstack
-- SSG
+- GraphQL
 
 ### Contact:
 - 📫 How to reach me: ewise82@gmail.com
