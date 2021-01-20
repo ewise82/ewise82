@@ -23,7 +23,7 @@
 
 - Next.js
 - TypeScript
-- GraphQL
+- Redux
 
 ### Contact:
 - 📫 How to reach me: ewise82@gmail.com
