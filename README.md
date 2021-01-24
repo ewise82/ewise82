@@ -23,7 +23,6 @@
 
 - Next.js
 - TypeScript
-- Redux
 
 ### Contact:
 - 📫 How to reach me: ewise82@gmail.com
