@@ -23,6 +23,7 @@
 
 - Next.js
 - TypeScript
+- Machine Learning
 
 ### Contact:
 - 📫 How to reach me: ewise82@gmail.com
