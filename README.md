@@ -11,7 +11,7 @@
   </a>
 
 
-## I'm a Full Stack Software Engineer
+## I'm a Senior Full Stack Software Engineer
 
 
 ### 🔭 Currently Working On
@@ -21,9 +21,8 @@
 
 ### 🌱 Currently Learning
 
-- Next.js
-- TypeScript
-- Machine Learning
+- Go
+- Playwright
 
 ### Contact:
 - 📫 How to reach me: ewise82@gmail.com
